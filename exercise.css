@@ -1,0 +1,18 @@
+*{
+    background-color: burlywood;
+    display: block;
+    text-align: center;
+
+}
+
+.foot{
+    text-align: center;
+    color: cyan;
+
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
